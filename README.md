@@ -1,5 +1,8 @@
 Jednoduchá ukážka evidencie na poruchy a stroje pre servisné stredisko. Použité technológie: XAMPP, PHP, MySQL, Vue.js. 
+
 vue-tabulka-udajov.jpg      vue-combobox.jpg
+
+index.php, index_stroje.php, porucha.php
 
 Postup na inštaláciu
 1- install xampp
